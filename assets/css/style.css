@@ -948,10 +948,12 @@ section {
 }
 
 @media (max-width: 768px) {
-  .team .card {
-    width:82%;
-    margin-left:40px;
+
+  .team .member .picture {
+    overflow: hidden;
+    height: 100px;
   }
+
 
 }
 
