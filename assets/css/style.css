@@ -18,7 +18,7 @@ a {
 }
 
 a:hover {
-  color: #fdd067;
+  color: #35C0ED;
   text-decoration: none;
 }
 
@@ -1111,7 +1111,7 @@ background-color:#35C0ED
 }
 
 .pricing .featured .get-started-btn:hover {
-  background: #fdcd5c;
+  background: #35C0ED;
 }
 
 @media (max-width: 992px) {
@@ -1281,7 +1281,7 @@ background-color:#35C0ED
 }
 
 .contact .php-email-form button[type="submit"]:hover {
-  background: #fdd067;
+  background: #35C0ED;
 }
 
 @-webkit-keyframes animate-loading {
